@@ -14,6 +14,10 @@ namespace CommuteWise.Model
         private string pickupTime;
         private int status;
         private int rideGroup;
+        private Int64 recID; 
+
+        // User information
+        private User user;
 
         public RideRequest() { }
 
@@ -80,5 +84,19 @@ namespace CommuteWise.Model
             set { rideGroup = value; }
         }
 
+        /// <summary>
+        /// Property 
+        /// </summary>
+        public Int64 RecID
+        {
+            get { return recID; }
+            set { recID = value; }
+        }
+
+        public User Requestor
+        {
+            get { return user; }
+            set { user = value; }
+        }
     }
 }

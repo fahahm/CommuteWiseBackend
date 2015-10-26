@@ -6,7 +6,7 @@ using System.Web;
 namespace CommuteWise.Model
 {
     public class User
-    {
+    {        
         private string firstName;
         private string lastName;
         private string password;
@@ -70,7 +70,7 @@ namespace CommuteWise.Model
         public string StreetAddress
         {
             get { return streetAddress; }
-            set { firstName = value; }
+            set { streetAddress = value; }
         }
 
         /// <summary>

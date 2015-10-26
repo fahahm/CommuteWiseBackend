@@ -137,3 +137,4 @@ C:\Users\v-fahada\Documents\Visual Studio 2013\Projects\CommuteWise\CommuteWise\
 C:\Users\v-fahada\Documents\Visual Studio 2013\Projects\CommuteWise\CommuteWise\bin\System.Web.dll
 C:\Users\v-fahada\Documents\Visual Studio 2013\Projects\CommuteWise\CommuteWise\bin\System.Web.Entity.dll
 C:\Users\v-fahada\Documents\Visual Studio 2013\Projects\CommuteWise\CommuteWise\bin\System.Net.Http.Formatting.xml
+C:\Users\v-fahada\Documents\Visual Studio 2013\Projects\CommuteWise\CommuteWise\obj\Debug\CommuteWise.csprojResolveAssemblyReference.cache

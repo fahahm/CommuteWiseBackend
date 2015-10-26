@@ -158,16 +158,19 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\RideOfferController.cs" />
     <Compile Include="Controllers\RideRequestController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="DAL\DAL.cs" />
+    <Compile Include="DAL\RideOfferDAL.cs" />
     <Compile Include="DAL\RideRequestDAL.cs" />
     <Compile Include="DAL\UserDAL.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Model\Constants.cs" />
+    <Compile Include="Model\RideOffer.cs" />
     <Compile Include="Model\RideRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Model\User.cs" />
